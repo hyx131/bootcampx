@@ -16,4 +16,4 @@ CREATE TABLE assistance_requests (
   completed_at TIMESTAMP,
   student_feedback TEXT,
   teacher_feedback TEXT
-);
+); 
